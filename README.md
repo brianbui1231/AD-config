@@ -1,2 +1,2 @@
 # AD-config
-Active directory configuration
+Active Directory Configuration Home Lab
