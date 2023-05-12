@@ -7,6 +7,6 @@
 ##  Requirements
 
 * A computer or laptop that supports multiple operating systems
-* Virtual Machine such as <a href="https://www.virtualbox.org">Oracle VM</a>
+* Virtual Machine such as <a href="https://www.virtualbox.org">Oracle Virtual Box</a>
 * A disk image of <a href="https://www.microsoft.com/en-us/evalcenter/download-](https://www.microsoft.com/en-us/evalcenter/download-
 windows-10-enterprise">Windows 10</a>
