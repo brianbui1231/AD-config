@@ -27,5 +27,10 @@ windows-10-enterprise">Windows 10</a>
   <img src="https://github.com/brianbui1231/AD-config/blob/main/AD%20pictures/AD-4.png" /img>
   <li> The next step is adding virtual disk storage for our VM so it can install all required programs to run Windows 10. The minimum disk storage is 16 GB to install Windows 10. In this example, I'm setting it to 25 GB. Adjust to your preference.
     <img src="https://github.com/brianbui1231/AD-config/blob/main/AD%20pictures/AD-5.png" /img>
+  <li> click next and then finish if you feel like everything is good and fine. Then it should start up a virtual Windows 10 and doing the normal setup</li>
+  <li> You should be prompted to enter your prefered language and country keyboard</li>
+  <li> Click next and accept terms of service. Then make sure to choose "Custom: install Windows only"</li>
+  <li> Then you will prompted for disk allocation, hit next. </li>
+  <li> Windows 10 will now install and the speed of download will depend on your computer specs and how much you allocate CPU processors from your host OS.</li>
   
   </ol>
