@@ -11,3 +11,10 @@
 * A disk image of <a href="https://www.microsoft.com/en-us/evalcenter/download-](https://www.microsoft.com/en-us/evalcenter/download-
 windows-10-enterprise">Windows 10</a>
 * Make sure to enable virtulization in your BIOS
+
+## Hypervisor Configuration
+
+<ul>
+  <li>Open your prefered hypervisor, I'm currently using a free one, Virtual Box. </li>
+  <img src="./AD pictures/AD1" /img>
+  </ul>
