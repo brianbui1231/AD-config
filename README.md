@@ -37,5 +37,9 @@ windows-10-enterprise">Windows 10</a>
   
 ## Post installation Notes
 * If you encountered an error along the way, most likely you didn't allocate enough disk space which is 16 GBs.
-* Another error you might get is if the VM on bootup says license cannot be detected. Try rerunning the whole setup from beginning and not selecting an inital ISO image, therefore leaving it blank.
+* Another error you might get is if the VM on bootup says license cannot be detected. Try rerunning the whole setup from beginning and not selecting an inital ISO image, therefore leaving it blank. Then during Windows installation, it will ask you choose boot image, select the Windows 10 ISO image you installed earlier.
+
+## Windows 10 server 2022 configuration
+
+
   
