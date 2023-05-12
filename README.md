@@ -22,4 +22,8 @@ windows-10-enterprise">Windows 10</a>
   <img src="https://github.com/brianbui1231/AD-config/blob/main/AD%20pictures/AD-2.png" /img>
   <li> After clicking "new", it will prompt you to enter a name of your choice. In this prompt, input the downloaded Windows 10 ISO image under "ISO image"</li>
   <img src="https://github.com/brianbui1231/AD-config/blob/main/AD%20pictures/AD-3.png" /img>
+  <li> Then hit next and enter your desired username and password, leaving everything else default. Otherwise you can also leave the username and password default as well. Click next when finished</li>
+  <li> By default, you can leave RAM and CPU processors as is, however, if your PC or laptop can handle more, I would highly recommend adding more to make installing and functionally faster specifically CPU processors. In this example, I am keeping RAM default and adding more processors to 4. </li>
+  
+  
   </ol>
