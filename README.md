@@ -19,5 +19,5 @@ windows-10-enterprise">Windows 10</a>
   <img src="https://github.com/brianbui1231/AD-config/blob/main/AD%20pictures/AD1.png" /img>
   <li>Download ISO image of <a href="https://www.microsoft.com/en-us/evalcenter/download-windows-10-enterprise">Windows 10</a> if you haven't done so <br/> $~~~$ Click the 64 bit with your prefered language</li>
   * Once you finished downloading the image, go to your hypervisor and there should be a button to add your downloaded ISO image. In this example, click "new"
-  <img src="https://github.com/brianbui1231/AD-config/blob/main/AD%20pictures/AD2.png" /img?
+  <img src="https://github.com/brianbui1231/AD-config/blob/main/AD%20pictures/AD2.png" /img>
   </ol>
