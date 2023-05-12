@@ -17,5 +17,5 @@ windows-10-enterprise">Windows 10</a>
 <ol>
   <li>Open your prefered hypervisor, I'm currently using a free one, Virtual Box. </li>
   <img src="https://github.com/brianbui1231/AD-config/blob/main/AD%20pictures/AD1.png" /img>
-  <li>Download ISO image of <a href="https://www.microsoft.com/en-us/evalcenter/download-windows-10-enterprise">Windows 10</a> <br/> $~~~$ Click the 64 bit with your prefered language</li>
+  <li>Download ISO image of <a href="https://www.microsoft.com/en-us/evalcenter/download-windows-10-enterprise">Windows 10</a> if you haven't done so <br/> $~~~$ Click the 64 bit with your prefered language</li>
   </ol>
