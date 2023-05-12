@@ -34,3 +34,4 @@ windows-10-enterprise">Windows 10</a>
   <li> Windows 10 will now install and the speed of download will depend on your computer specs and how much you allocate CPU processors from your host OS.</li>
   <img src="https://github.com/brianbui1231/AD-config/blob/main/AD%20pictures/AD-6.png" </li>
   </ol>
+  ### Notes
