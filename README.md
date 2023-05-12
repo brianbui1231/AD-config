@@ -10,3 +10,4 @@
 * Virtual Machine such as <a href="https://www.virtualbox.org">Oracle Virtual Box</a>
 * A disk image of <a href="https://www.microsoft.com/en-us/evalcenter/download-](https://www.microsoft.com/en-us/evalcenter/download-
 windows-10-enterprise">Windows 10</a>
+* Make sure to enable virtulization in your BIOS
