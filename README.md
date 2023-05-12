@@ -34,6 +34,7 @@ windows-10-enterprise">Windows 10</a>
   <li> Windows 10 will now install and the speed of download will depend on your computer specs and how much you allocate CPU processors from your host OS.</li>
   <img src="https://github.com/brianbui1231/AD-config/blob/main/AD%20pictures/AD-6.png" </li>
   </ol>
+  
 ## Post installation Notes
 * If you encountered an error along the way, most likely you didn't allocate enough disk space which is 16 GBs.
 * Another error you might get is if the VM on bootup says license cannot be detected. Try rerunning the whole setup from beginning and not selecting an inital ISO image, therefore leaving it blank.
