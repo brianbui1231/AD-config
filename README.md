@@ -25,6 +25,7 @@ windows-10-enterprise">Windows 10</a>
   <li> Then hit next and enter your desired username and password, leaving everything else default. Otherwise you can also leave the username and password default as well. Click next when finished</li>
   <li> By default, you can leave RAM and CPU processors as is, however, if your PC or laptop can handle more, I would highly recommend adding more to make installing and functionally faster specifically CPU processors. In this example, I am keeping RAM default and adding more processors to 4. </li>
   <img src="https://github.com/brianbui1231/AD-config/blob/main/AD%20pictures/AD-4.png" /img>
-  
+  <li> The next step is adding virtual disk storage for our VM so it can install all required programs to run Windows 10. The minimum disk storage is 16 GB to install Windows 10. In this example, I'm setting it to 25 GB. Adjust to your preference.
+    
   
   </ol>
