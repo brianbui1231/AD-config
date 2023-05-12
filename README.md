@@ -16,5 +16,5 @@ windows-10-enterprise">Windows 10</a>
 
 <ul>
   <li>Open your prefered hypervisor, I'm currently using a free one, Virtual Box. </li>
-  <img src="[AD pictures/AD1](https://github.com/brianbui1231/AD-config/blob/main/AD%20pictures/AD1.png)" /img>
+  <img src="https://github.com/brianbui1231/AD-config/blob/main/AD%20pictures/AD1.png" /img>
   </ul>
