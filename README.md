@@ -21,5 +21,5 @@ windows-10-enterprise">Windows 10</a>
   <li>Once you finished downloading the image, go to your hypervisor and there should be a button to add your downloaded ISO image. In this example, click "new" </li>
   <img src="https://github.com/brianbui1231/AD-config/blob/main/AD%20pictures/AD-2.png" /img>
   <li> After clicking "new", it will prompt you to enter a name of your choice. In this prompt, input the downloaded Windows 10 ISO image under "ISO image"</li>
-  
+  <img src="https://github.com/brianbui1231/AD-config/blob/main/AD%20pictures/AD-3.png" /img>
   </ol>
