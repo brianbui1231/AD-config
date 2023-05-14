@@ -77,4 +77,4 @@ windows-10-enterprise">Windows 10</a>
   <li> Copy or make note of the private IPv4 adress </li>
   <img src="https://github.com/brianbui1231/AD-config/blob/main/AD%20pictures/AD-12.png">
   <li> Copy the address into "preferred DNS" </li>
-  <img src=
+  <img src="https://github.com/brianbui1231/AD-config/blob/main/AD%20pictures/AD-14.png">
