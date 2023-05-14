@@ -53,6 +53,6 @@ windows-10-enterprise">Windows 10</a>
   <li> Set the size to whatever you want, in this example I'm using Standard_DS1_v2 </li>
   <li> Create your username and password </li>
   <li> For the inbound port, set it to SSH. </li>
-  <li> Once completed, create the server <li>
+  <li> Once completed, create the server </li>
   </ol>
 <img src="https://github.com/brianbui1231/AD-config/blob/main/AD%20pictures/AD-8.png">  
