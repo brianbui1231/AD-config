@@ -41,5 +41,10 @@ windows-10-enterprise">Windows 10</a>
 
 ## Windows 10 server 2022 configuration
 
+<p> There a couple options you can do for creating a server</p>
+* Download a Windows 10 server ISO image from Microsoft OR
+* Use Azure's virtual machine to host a server
+<p> I'm going to using Azure's virtual machine to create my Windows 10 server </p>
+
 
   
