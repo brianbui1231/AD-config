@@ -49,6 +49,9 @@ windows-10-enterprise">Windows 10</a>
 
 <p> $~~$ I'm going to be using Azure's virtual machine to create my Windows 10 server </p>
 <img src="https://github.com/brianbui1231/AD-config/blob/main/AD%20pictures/AD-7.png">
-
-
+<ol>
+  <li> Set the size to whatever you want, in this example I'm using Standard_DS1_v2 </li>
+  <li> Create your username and password </li>
+  <li> For the inbound port, set it to SSH. </li>
+  <li> Once completed, create the server <li>
   
