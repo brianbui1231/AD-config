@@ -47,7 +47,8 @@ windows-10-enterprise">Windows 10</a>
   <li> OR use Azure's virtual machine host to create a Windows 10 server </li>
   </ul>
 
-<p> I'm going to be using Azure's virtual machine to create my Windows 10 server </p>
+<p> $~~$ I'm going to be using Azure's virtual machine to create my Windows 10 server </p>
+<img src="https://github.com/brianbui1231/AD-config/blob/main/AD%20pictures/AD-7.png">
 
 
   
