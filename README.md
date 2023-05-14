@@ -44,6 +44,7 @@ windows-10-enterprise">Windows 10</a>
 <p> There a couple options you can do for creating a server</p>
 * Download a Windows 10 server ISO image from Microsoft OR
 * Use Azure's virtual machine to host a server
+
 <p> I'm going to using Azure's virtual machine to create my Windows 10 server </p>
 
 
