@@ -71,3 +71,4 @@ windows-10-enterprise">Windows 10</a>
 <ol>
 <li>Good job you made it. Now, in the Windows 10 host VM, go to settings > network & internet > change adapter options. Then, right-click adapter (ethernet) and choose properties.</li>
   <img src="https://github.com/brianbui1231/AD-config/blob/main/AD%20pictures/AD-10.png">
+ <li> Click "Internet Protocol Version 4 (TCP/IPv4)" which will highlight it, then click "Properties".</li>
