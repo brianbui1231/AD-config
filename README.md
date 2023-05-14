@@ -62,4 +62,5 @@ windows-10-enterprise">Windows 10</a>
 <ol>
   <li> After setting up your preferred keyboard and language, you will prompted to sign in to Microsoft. However, we're going to do "domain join instead" at the bottome left corner. </li>
   <li> Choose a preferred name, I chose Atlas :) </li>
+  <img src="https://github.com/brianbui1231/AD-config/blob/main/AD%20pictures/AD-9.png">
   
