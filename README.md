@@ -64,4 +64,4 @@ windows-10-enterprise">Windows 10</a>
   <li> Choose a preferred name, I chose Atlas :) </li>
   <img src="https://github.com/brianbui1231/AD-config/blob/main/AD%20pictures/AD-9.png">
   <li> Create your password and complete the security questions</li>
-  <li> Repeat the process for any additional host you have. <li>
+  <li> Repeat the process for any additional host you have. </li>
