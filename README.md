@@ -56,3 +56,10 @@ windows-10-enterprise">Windows 10</a>
   <li> Once completed, create the server </li>
   </ol>
 <img src="https://github.com/brianbui1231/AD-config/blob/main/AD%20pictures/AD-8.png">  
+
+## Windows 10 Account Creation
+<p> Going back to your Window 10 host(s), we are going to be creating the accounts </p>
+<ol>
+  <li> After setting up your preferred keyboard and language, you will prompted to sign in to Microsoft. However, we're going to do "domain join instead" at the bottome left corner. </li>
+  <li> Choose a preferred name, I chose Atlas :) </li>
+  
