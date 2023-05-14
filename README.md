@@ -73,3 +73,5 @@ windows-10-enterprise">Windows 10</a>
   <img src="https://github.com/brianbui1231/AD-config/blob/main/AD%20pictures/AD-10.png">
  <li> Click "Internet Protocol Version 4 (TCP/IPv4)" which will highlight it, then click "Properties".</li>
   <img src="https://github.com/brianbui1231/AD-config/blob/main/AD%20pictures/AD-11.png" >
+  <li> Click "Use the following DNS server addresses:". Then, we go back to the Windows server VM. </li>
+  <
