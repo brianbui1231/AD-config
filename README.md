@@ -42,6 +42,7 @@ windows-10-enterprise">Windows 10</a>
 ## Windows 10 server 2022 configuration
 
 * We are going to download the <a href="https://www.microsoft.com/en-us/windows-server">Windows server 2022</a> if you haven't done so.
+* The Windows server 2022 from microsoft is not free. However, for this lab, we can use it for a short while. Microsoft offers a free trial that last for 180 days, otherwise you'll have to pay a subscription to reactivate or use the server.
 
 
 ## Windows 10 Account Creation
