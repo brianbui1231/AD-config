@@ -76,7 +76,8 @@ windows-10-enterprise">Windows 10</a>
  <li> Click "Internet Protocol Version 4 (TCP/IPv4)" which will highlight it, then click "Properties".</li>
   <img src="https://github.com/brianbui1231/AD-config/blob/main/AD%20pictures/AD-11.png" >
   <li> Click "Use the following DNS server addresses:". Then, we go back to the Windows server VM. </li>
-  <li> Copy or make note of the private IPv4 adress </li>
-  <img src="https://github.com/brianbui1231/AD-config/blob/main/AD%20pictures/AD-12.png">
+  <li> Open the command prompt as an admin (not required). Type in the command prompt, "ipconfig".</li>
+  <li> Copy the IPv4 address </li>
+  <img src="">
   <li> Copy the address into "preferred DNS server:" </li>
   <img src="https://github.com/brianbui1231/AD-config/blob/main/AD%20pictures/AD-14.png">
