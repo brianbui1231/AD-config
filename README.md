@@ -54,6 +54,7 @@ windows-10-enterprise">Windows 10</a>
 (Desktop Experience)."
     <img src="https://github.com/brianbui1231/AD-config/blob/main/AD%20pictures/AD-18.png" >
   </ol>
+  
   * Make sure to choose custom install.
   * Defer to the first installation process for the host if you have forgotten anything.
 
