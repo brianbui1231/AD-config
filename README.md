@@ -50,6 +50,9 @@ windows-10-enterprise">Windows 10</a>
 <ol>
   <li> Create a new VM for the server and the installation is the exact same except change the version to Windows 2022 (64 bit)</li>
   <img src="https://github.com/brianbui1231/AD-config/blob/main/AD%20pictures/AD-17.png">
+  <li> Upon boot up, and installing the preferred settings, choose and install "Windows Server 2022 Standard Evaluation
+(Desktop Experience)."
+    <img src="https://github.com/brianbui1231/AD-config/blob/main/AD%20pictures/AD-18.png" >
   </ol>
 
 
