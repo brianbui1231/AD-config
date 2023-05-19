@@ -47,6 +47,10 @@ windows-10-enterprise">Windows 10</a>
 
 * Fill out all the required information and download the ISO with your preferred language
 <img src="https://github.com/brianbui1231/AD-config/blob/main/AD%20pictures/AD-16.png" >
+<ol>
+  <li> Create a new VM for the server and the installation is the exact same except change the version to Windows 2022 (64 bit)</li>
+  <img src="">
+  </ol>
 
 
 ## Windows 10 Account Creation
