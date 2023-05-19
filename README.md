@@ -41,21 +41,8 @@ windows-10-enterprise">Windows 10</a>
 
 ## Windows 10 server 2022 configuration
 
-<p> There a couple options you can do for creating a server</p>
-<ul>
-  <li> Get the Windows 10 server ISO image from the Microsoft website</li>
-  <li> OR use Azure's virtual machine host to create a Windows 10 server </li>
-  </ul>
+* We are going to download the <a href="https://www.microsoft.com/en-us/windows-server">Windows server 2022</a> if you haven't done so.
 
-<p> $~~$ I'm going to be using Azure's virtual machine to create my Windows 10 server </p>
-<img src="https://github.com/brianbui1231/AD-config/blob/main/AD%20pictures/AD-7.png">
-<ol>
-  <li> Set the size to whatever you want, in this example I'm using Standard_DS1_v2 </li>
-  <li> Create your username and password </li>
-  <li> For the inbound port, set it to SSH. </li>
-  <li> Once completed, create the server </li>
-  </ol>
-<img src="https://github.com/brianbui1231/AD-config/blob/main/AD%20pictures/AD-8.png">  
 
 ## Windows 10 Account Creation
 <p> Going back to your Window 10 host(s), we are going to be creating the accounts </p>
