@@ -45,7 +45,7 @@ windows-10-enterprise">Windows 10</a>
 * The Windows server 2022 from microsoft is not free. However, for this lab, we can use it for a short while. Microsoft offers a free trial that last for 180 days, otherwise you'll have to pay a subscription to reactivate or use the server.
 <img src="https://github.com/brianbui1231/AD-config/blob/main/AD%20pictures/AD-15.png" >
 * Fill out all the required information and download the ISO with your preferred language
-<imh src="https://github.com/brianbui1231/AD-config/blob/main/AD%20pictures/AD-16.png" >
+<img src="https://github.com/brianbui1231/AD-config/blob/main/AD%20pictures/AD-16.png" >
 
 
 ## Windows 10 Account Creation
